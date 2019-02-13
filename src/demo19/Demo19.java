@@ -15,7 +15,7 @@ public class Demo19 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("ok");
+        System.out.println("ok2");
     }
     
 }
